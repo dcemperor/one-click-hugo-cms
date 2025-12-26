@@ -1,16 +1,14 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Emperor of Planet X Website
+subtitle: Protectorof the tre of lifefirst and foremost
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: The guild
+  heading: Created by Douglas Cumali
+  text: The father of faster than light travel of the space time navigators guild
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: "Grandmaster space time navigator "
+  text: |
+    Founder of the space time navigators guild in San Francisco 
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
